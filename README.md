@@ -65,7 +65,7 @@ The project uses **PostgreSQL** as the database, **Python** for data analysis an
 ---
 
 ## 🖼️ Dashboard Preview
-![Customer Behavior Dashboard]("https://github.com/arpitm169/Customer-Data-Analysis/blob/a99013c7901ccaaa5e4c86e7b792f0c5795ea774/Screenshot%202026-01-20%20124246.png")
+![image alt]("https://github.com/arpitm169/Customer-Data-Analysis/blob/a99013c7901ccaaa5e4c86e7b792f0c5795ea774/Screenshot%202026-01-20%20124246.png")
 
 
 
