@@ -71,5 +71,5 @@ The project uses **PostgreSQL** as the database, **Python** for data analysis an
 
 
 ---
-
+power
 
